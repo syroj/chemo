@@ -1,0 +1,53 @@
+.nav-md .container.body .right_col .web{
+  padding: 10px 20px 0;
+  position: fixed;
+}
+.nav_menu{
+	height: 50px;
+}
+.login{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.navigasi{
+	float: left;
+	margin-bottom: 5px;
+}
+.kanan{
+	float: right;
+	margin-right: 10px;
+}
+.logo{
+	background: #F7F7F7;
+}
+.logocss{
+	width: 350px;
+}
+.imgorganizer{
+	display: block;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.organizer{
+	margin-top: 5px;
+	text-align: center;
+}
+.kiri{
+text-align: left;
+}
+.navbar-nav{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.kaki{
+	
+	margin-top: 10px;
+	bottom: 0;
+	width: 100%;
+	
+}
+.badan{
+
+	margin-bottom: 20%;
+}
